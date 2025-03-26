@@ -25,10 +25,10 @@
     "added_data": "2025-03-11 11:55:20"
   },
   {
-        "title": "Clean Code",
-        "author": "Robert C. Martin",
-        "publication_year": 2008,
-        "genre": "Software Development",
-        "read_status": true,
-        "added_date": "2025-03-18 11:05:22"
+     "title": "Clean Code",
+     "author": "Robert C. Martin",
+     "publication_year": 2008,
+     "genre": "Software Development",
+     "read_status": true,
+     "added_date": "2025-03-18 11:05:22"
     },
