@@ -7,7 +7,7 @@ import time
 import random
 import plotly.express as px     
 import plotly.graph_objects as go
-import streamlit_lottle import st_lottie
+from streamlit_lottie import st_lottie
 import requests
 
 # Set the page configration
@@ -87,9 +87,6 @@ st.markdown ("""
     }
     .stButton>button {
         border-radius: 0.375rem;
-    }
-    .stApp {
-        background: linear-gradient(to right, #E3F2FD, #FCE4EC);
     }
 </style>
 """, unsafe_allow_html=True)                  
