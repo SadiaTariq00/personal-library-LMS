@@ -303,7 +303,7 @@ if lottie_book:
     with st.sidebar:
         st_lottie(lottie_book, height=200, key="book_animation")
 
-nav_options = st.sidebar(
+nav_options = st.sidebar.selectbox(
      "Choose an option:",
     ["📖 View Library", "➕ Add Book", "🔍 Search Books", "📊 Library Statistics"]
 )
